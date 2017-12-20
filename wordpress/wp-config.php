@@ -24,13 +24,13 @@
 define('DB_NAME', 'bdalkimia');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'bdalkimia');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'niazi');
+define('DB_PASSWORD', 'miyuki150705');
 
 /** Nome do host do MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'bdalkimia.mysql.dbaas.com.br');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
