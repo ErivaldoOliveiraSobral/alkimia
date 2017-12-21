@@ -24,6 +24,7 @@
 define('DB_NAME', 'bdalkimia');
 
 /** Usuário do banco de dados MySQL */
+<<<<<<< HEAD
 define('DB_USER', 'bdalkimia');
 
 /** Senha do banco de dados MySQL */
@@ -31,6 +32,15 @@ define('DB_PASSWORD', 'miyuki150705');
 
 /** Nome do host do MySQL */
 define('DB_HOST', 'bdalkimia.mysql.dbaas.com.br');
+=======
+define('DB_USER', 'root');
+
+/** Senha do banco de dados MySQL */
+define('DB_PASSWORD', 'niazi');
+
+/** Nome do host do MySQL */
+define('DB_HOST', 'localhost');
+>>>>>>> Instalando localmente
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
